@@ -19,7 +19,9 @@ This project applies machine learning and ensemble models to detect botnet activ
 
 ## Dataset
 
+- Download the dataset from [Google Drive](https://drive.google.com/file/d/1TwLq_Uu5rvw-U_-pWEcBHTiutKqAX0wX/view?usp=drive_link)
 - Contains network traffic statistics and attack labels (Benign, Mirai, Qbot, Kaiten, Normal, DDoS)
+- After downloading place it in the 'data/' folder
 
 ## Setup
 
